@@ -1,8 +1,8 @@
-from BACpypes.app import BIPSimpleApplication
-from BACpypes.local.device import LocalDeviceObject
-from BACpypes.pdu import Address
-from BACpypes.netservice import NetworkServiceAccessPoint, NetworkServiceElement
-from BACpypes.service.device import WhoIsIAmServices
+from bacpypes.app import BIPSimpleApplication
+from bacpypes.local.device import LocalDeviceObject
+from bacpypes.pdu import Address
+from bacpypes.netservice import NetworkServiceAccessPoint, NetworkServiceElement
+from bacpypes.service.device import WhoIsIAmServices
 
 # Configuration for the local BACnet device
 device_config = {
@@ -27,15 +27,20 @@ local_device = LocalDeviceObject(
     vendorIdentifier=device_config['vendorIdentifier'],
 )
 
-# BACnet IP address (broadcast)
-address = Address('192.168.1.255')  # Replace with your subnet broadcast address
+# BACnet IP address and port (adjust for your network)
+address = Address('192.168.1.75:47800')  # Replace with your actual IP:port
 
-# Instantiate the application
+# Instantiate the BACnet application
 bacnet_app = BACnetApplication(local_device, address)
 
-# Network service access point
+# Network Service Access Point (NSAP)
 nsap = NetworkServiceAccessPoint()
-nsap.bind(bacnet_app, NetworkServiceElement())
+
+# Network Service Element (NSE)
+nse = NetworkServiceElement()
+
+# Bind NSE and BACnet application to the NSAP
+nsap.bind(nse, bacnet_app)
 
 # Function to handle discovered devices
 def who_is_callback(device, address):

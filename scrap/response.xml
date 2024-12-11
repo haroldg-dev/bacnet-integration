@@ -1,0 +1,173 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<result status="success" req="devlist">
+<mdac-ctrler name="CONTROL-UNIT-0" address="0" poll_data_elapse="60" save_per_count="10">
+<sd-card>
+<dev/>
+<mounted_dir/>
+<is_mounted>0</is_mounted>
+<total_size>0</total_size>
+<used_size>0</used_size>
+<is_error>0</is_error>
+<error_code>0</error_code>
+</sd-card>
+<bus name="INDOOR-BUS-1" type="indoor-bus" controlmode="1" address="0" port="1">
+<unit type="indoor-unit" alarm="0" id="100" alias="OFICINA SECRETARIA 2" status="stop">indoor-1-0</unit>
+<unit type="indoor-unit" alarm="0" id="101" alias="OFICINA SECRETARIA 4" status="stop">indoor-1-1</unit>
+<unit type="indoor-unit" alarm="0" id="102" alias="OFICINA SECRETARIA 3" status="stop">indoor-1-2</unit>
+<unit type="indoor-unit" alarm="0" id="103" alias="OFICINA SECRETARIA 1" status="stop">indoor-1-3</unit>
+<unit type="indoor-unit" alarm="0" id="104" alias="HALL 2" status="stop">indoor-1-4</unit>
+<unit type="indoor-unit" alarm="0" id="105" alias="HALL 1" status="stop">indoor-1-5</unit>
+<unit type="indoor-unit" alarm="0" id="106" alias="HALL (RECUPERADOR)" status="stop">indoor-1-6</unit>
+<unit type="indoor-unit" alarm="0" id="107" alias="SECRETARIAS 1" status="stop">indoor-1-7</unit>
+<unit type="indoor-unit" alarm="0" id="108" alias="SECRETARIAS 2" status="stop">indoor-1-8</unit>
+<unit type="indoor-unit" alarm="0" id="109" alias="SECRETARIAS (RECUPERADOR)" status="stop">indoor-1-9</unit>
+<unit type="indoor-unit" alarm="0" id="110" alias="OFICINA (RECUPERADOR)" status="stop">indoor-1-10</unit>
+<unit type="indoor-unit" alarm="0" id="111" alias="OFICINA DE SECRETARIA GENERAL 1" status="stop">indoor-1-11</unit>
+<unit type="indoor-unit" alarm="0" id="112" alias="OFICINA DE SECRETARIA GENERAL 2" status="stop">indoor-1-12</unit>
+<unit type="indoor-unit" alarm="0" id="113" alias="OFICINA PRODIRECTOR SECRETARIO" status="stop">indoor-1-13</unit>
+<unit type="indoor-unit" alarm="0" id="114" alias="OFICINA SECRETARIO GENERAL 2" status="stop">indoor-1-14</unit>
+<unit type="indoor-unit" alarm="0" id="115" alias="OFICINA SECRETARIO GENERAL 1" status="stop">indoor-1-15</unit>
+<unit type="indoor-unit" alarm="0" id="116" alias="OFICINA ADMINISTRADOR 2" status="stop">indoor-1-16</unit>
+<unit type="indoor-unit" alarm="0" id="117" alias="OFICINA ADMINISTRADOR 1" status="stop">indoor-1-17</unit>
+<unit type="indoor-unit" alarm="0" id="118" alias="OFICINA ADMINISTRADOR 1 (REC.)" status="stop">indoor-1-18</unit>
+<unit type="indoor-unit" alarm="0" id="119" alias="SALA DE REUNIONES 2" status="stop">indoor-1-19</unit>
+<unit type="indoor-unit" alarm="0" id="120" alias="SALA DE REUNIONES 1" status="stop">indoor-1-20</unit>
+<unit type="indoor-unit" alarm="0" id="121" alias="OFICINA JEFE ACESORIA LEGAL" status="stop">indoor-1-21</unit>
+<unit type="indoor-unit" alarm="0" id="122" alias="OFICINA ACESORIA LEGAL" status="stop">indoor-1-22</unit>
+<unit type="indoor-unit" alarm="0" id="123" alias="OFICINA TRIBUNAL DE ÉTICA 2" status="stop">indoor-1-23</unit>
+<unit type="indoor-unit" alarm="0" id="124" alias="OFICINA TRIBUNAL DE ÉTICA 1" status="stop">indoor-1-24</unit>
+<unit type="indoor-unit" alarm="0" id="125" alias="OFICINA TRIBUNAL DE ETICA (REC.)" status="stop">indoor-1-25</unit>
+<unit type="indoor-unit" alarm="0" id="126" alias="CASILLEROS (RECUPERADOR)" status="stop">indoor-1-26</unit>
+<unit type="indoor-unit" alarm="0" id="127" alias="VIGILANCIA 1" status="run">indoor-1-27</unit>
+<unit type="indoor-unit" alarm="0" id="128" alias="VIGILANCIA 2" status="run">indoor-1-28</unit>
+<unit type="indoor-unit" alarm="0" id="129" alias="SALA DE REUNIONES (RECUPERADOR)" status="stop">indoor-1-29</unit>
+<unit type="indoor-unit" alarm="0" id="130" alias="SALA DE REUNIÓN 1" status="stop">indoor-1-30</unit>
+<unit type="indoor-unit" alarm="0" id="131" alias="SALA DE REUNIÓN 2" status="stop">indoor-1-31</unit>
+<unit type="indoor-unit" alarm="0" id="132" alias="SALA DE REUNIÓN 3" status="stop">indoor-1-32</unit>
+<unit type="indoor-unit" alarm="0" id="133" alias="SALA DE REUNIÓN 4" status="stop">indoor-1-33</unit>
+<unit type="indoor-unit" alarm="0" id="134" alias="SALA DE REUNIÓN 5" status="stop">indoor-1-34</unit>
+<unit type="indoor-unit" alarm="0" id="135" alias="SALA DE REUNIÓN 6" status="stop">indoor-1-35</unit>
+<unit type="indoor-unit" alarm="0" id="136" alias="OFICINA DECANO 3" status="stop">indoor-1-36</unit>
+<unit type="indoor-unit" alarm="0" id="137" alias="OFICINA DECANO 2" status="run">indoor-1-37</unit>
+<unit type="indoor-unit" alarm="0" id="138" alias="OFICINA DECANO 2 (RECUPERADOR)" status="stop">indoor-1-38</unit>
+<unit type="indoor-unit" alarm="0" id="139" alias="OFICINA DECANO 5" status="stop">indoor-1-39</unit>
+<unit type="indoor-unit" alarm="0" id="140" alias="OFICINA DECANO 1" status="stop">indoor-1-40</unit>
+<unit type="indoor-unit" alarm="0" id="141" alias="OFICINA DECANO 4" status="stop">indoor-1-41</unit>
+<unit type="indoor-unit" alarm="0" id="142" alias="OFICINA VICEDECANO" status="stop">indoor-1-42</unit>
+<unit type="indoor-unit" alarm="0" id="143" alias="OFICINA VICEDECANO 1" status="stop">indoor-1-43</unit>
+<unit type="indoor-unit" alarm="0" id="144" alias="OFICINA VICEDECANO 2" status="stop">indoor-1-44</unit>
+</bus>
+<bus name="INDOOR-BUS-2" type="indoor-bus" controlmode="1" address="0" port="2">
+<unit type="indoor-unit" alarm="0" id="200" alias="SALA DE REUNIONES 1" status="stop">indoor-2-0</unit>
+<unit type="indoor-unit" alarm="0" id="201" alias="SALA DE REUNIONES 2" status="stop">indoor-2-1</unit>
+<unit type="indoor-unit" alarm="0" id="202" alias="CAP. ING. DE SISTEMAS 1" status="stop">indoor-2-2</unit>
+<unit type="indoor-unit" alarm="0" id="203" alias="CAP. ING. SISTEMAS 2" status="stop">indoor-2-3</unit>
+<unit type="indoor-unit" alarm="0" id="204" alias="CAP. ING.SISTEMAS (RECUPERADOR)" status="run">indoor-2-4</unit>
+<unit type="indoor-unit" alarm="0" id="205" alias="SALA DE REUNIONES 1" status="stop">indoor-2-5</unit>
+<unit type="indoor-unit" alarm="0" id="206" alias="SALA DE REUNIONES 2" status="stop">indoor-2-6</unit>
+<unit type="indoor-unit" alarm="0" id="207" alias="PRESIDENTE" status="stop">indoor-2-7</unit>
+<unit type="indoor-unit" alarm="0" id="208" alias="ING,AMBIENTAL Y SISTEMAS (REC.)" status="run">indoor-2-8</unit>
+<unit type="indoor-unit" alarm="0" id="209" alias="SALA DE REUNIONES 1" status="stop">indoor-2-9</unit>
+<unit type="indoor-unit" alarm="0" id="210" alias="SALA DE REUNIONES 2" status="stop">indoor-2-10</unit>
+<unit type="indoor-unit" alarm="0" id="211" alias="PRESIDENTE" status="stop">indoor-2-11</unit>
+<unit type="indoor-unit" alarm="0" id="212" alias="CAP. ING. SAN. AMBIENTAL 2" status="stop">indoor-2-12</unit>
+<unit type="indoor-unit" alarm="0" id="213" alias="CAP. ING. SAN. AMBIENTAL 1" status="stop">indoor-2-13</unit>
+<unit type="indoor-unit" alarm="0" id="214" alias="CAP. ING. AGRONOMO (REC)" status="run">indoor-2-14</unit>
+<unit type="indoor-unit" alarm="0" id="215" alias="SALA DE REUNIÓN 1" status="run">indoor-2-15</unit>
+<unit type="indoor-unit" alarm="0" id="216" alias="SALA DE REUNIÓN 2" status="stop">indoor-2-16</unit>
+<unit type="indoor-unit" alarm="0" id="217" alias="PRESIDENTE" status="stop">indoor-2-17</unit>
+<unit type="indoor-unit" alarm="0" id="218" alias="CAP. ING. AGRONOMO 2" status="stop">indoor-2-18</unit>
+<unit type="indoor-unit" alarm="0" id="219" alias="CAP. ING. AGRONOMO 1" status="stop">indoor-2-19</unit>
+<unit type="indoor-unit" alarm="0" id="220" alias="CAP. ING. PESQUERO ( REC.)" status="run">indoor-2-20</unit>
+<unit type="indoor-unit" alarm="0" id="221" alias="PRESIDENTE" status="stop">indoor-2-21</unit>
+<unit type="indoor-unit" alarm="0" id="222" alias="SALA DE REUNIONES" status="stop">indoor-2-22</unit>
+<unit type="indoor-unit" alarm="1" id="223" alias="CAP. ING. PESQUERO 2" status="stop">indoor-2-23</unit>
+<unit type="indoor-unit" alarm="1" id="224" alias="CAP. ING. PESQUERO 1" status="stop">indoor-2-24</unit>
+<unit type="indoor-unit" alarm="0" id="225" alias="CAP.ING. AGRICOLA" status="stop">indoor-2-25</unit>
+<unit type="indoor-unit" alarm="0" id="226" alias="PRESIDENTE" status="stop">indoor-2-26</unit>
+<unit type="indoor-unit" alarm="0" id="227" alias="CAP. ING. FORESTAL" status="stop">indoor-2-27</unit>
+<unit type="indoor-unit" alarm="0" id="228" alias="PRESIDENTE" status="stop">indoor-2-28</unit>
+<unit type="indoor-unit" alarm="0" id="229" alias="CAP.ING. AGRI. FORESTAL (REC.)" status="run">indoor-2-29</unit>
+<unit type="indoor-unit" alarm="0" id="230" alias="PRESIDENTE" status="run">indoor-2-30</unit>
+<unit type="indoor-unit" alarm="0" id="231" alias="CAP. ING. QUÍMICO" status="run">indoor-2-31</unit>
+<unit type="indoor-unit" alarm="0" id="232" alias="CAP. ING. QUÍMICO 1" status="stop">indoor-2-32</unit>
+<unit type="indoor-unit" alarm="0" id="233" alias="CAP. ING. QUÍMICO 2" status="stop">indoor-2-33</unit>
+<unit type="indoor-unit" alarm="0" id="234" alias="SALA DE REUNION 1" status="stop">indoor-2-34</unit>
+<unit type="indoor-unit" alarm="0" id="235" alias="SALA DE REUNION 2" status="stop">indoor-2-35</unit>
+<unit type="indoor-unit" alarm="0" id="236" alias="SALA DE REUNION 1" status="stop">indoor-2-36</unit>
+<unit type="indoor-unit" alarm="0" id="237" alias="SALA DE REUNION 2" status="stop">indoor-2-37</unit>
+<unit type="indoor-unit" alarm="0" id="238" alias="PRESIDENTE" status="stop">indoor-2-38</unit>
+<unit type="indoor-unit" alarm="0" id="239" alias="CAP.ING. MINAS 1" status="stop">indoor-2-39</unit>
+<unit type="indoor-unit" alarm="0" id="240" alias="CAP.ING. MINAS 2" status="stop">indoor-2-40</unit>
+<unit type="indoor-unit" alarm="0" id="241" alias="PRESIDENTE" status="stop">indoor-2-41</unit>
+<unit type="indoor-unit" alarm="0" id="242" alias="CAP. ING. AGRICOLA 2" status="stop">indoor-2-42</unit>
+<unit type="indoor-unit" alarm="0" id="243" alias="CAP. ING. AGRICOLA 1" status="stop">indoor-2-43</unit>
+<unit type="indoor-unit" alarm="0" id="244" alias="SALA DE REUNIONES 2" status="stop">indoor-2-44</unit>
+<unit type="indoor-unit" alarm="0" id="245" alias="SALA DE REUNIONES 1" status="stop">indoor-2-45</unit>
+<unit type="indoor-unit" alarm="0" id="246" alias="CAP. ING. AGRICOLA (REC.)" status="run">indoor-2-46</unit>
+<unit type="indoor-unit" alarm="0" id="247" alias="HALL 4" status="stop">indoor-2-47</unit>
+<unit type="indoor-unit" alarm="0" id="248" alias="HALL 2" status="stop">indoor-2-48</unit>
+<unit type="indoor-unit" alarm="0" id="249" alias="HALL (RECUPERADOR)" status="run">indoor-2-49</unit>
+<unit type="indoor-unit" alarm="0" id="250" alias="HALL 1" status="stop">indoor-2-50</unit>
+<unit type="indoor-unit" alarm="0" id="251" alias="HALL 3" status="stop">indoor-2-51</unit>
+<unit type="indoor-unit" alarm="0" id="252" alias="CAP. ING. MINAS (RECUPERADOR)" status="run">indoor-2-52</unit>
+</bus>
+<bus name="INDOOR-BUS-3" type="indoor-bus" controlmode="1" address="0" port="3">
+<unit type="indoor-unit" alarm="0" id="300" alias="CAFETERIA 3" status="stop">indoor-3-0</unit>
+<unit type="indoor-unit" alarm="0" id="301" alias="CAFETERIA 2 (RECUPERADOR)" status="stop">indoor-3-1</unit>
+<unit type="indoor-unit" alarm="0" id="302" alias="CAFETERIA 1" status="run">indoor-3-2</unit>
+<unit type="indoor-unit" alarm="0" id="303" alias="CAFETERIA 1 (RECUPERADOR)" status="stop">indoor-3-3</unit>
+<unit type="indoor-unit" alarm="0" id="304" alias="CAFETERIA 2" status="stop">indoor-3-4</unit>
+<unit type="indoor-unit" alarm="0" id="305" alias="CAFETERIA 3 (RECUPERADOR)" status="stop">indoor-3-5</unit>
+<unit type="indoor-unit" alarm="0" id="306" alias="CAFETERIA 4" status="stop">indoor-3-6</unit>
+<unit type="indoor-unit" alarm="0" id="307" alias="CAFETERIA 4 (RECUPERADOR)" status="stop">indoor-3-7</unit>
+<unit type="indoor-unit" alarm="0" id="308" alias="CAFETERIA 5" status="stop">indoor-3-8</unit>
+<unit type="indoor-unit" alarm="0" id="309" alias="CAP. ING. MEC. ELÉCTRICO (REC.)" status="run">indoor-3-9</unit>
+<unit type="indoor-unit" alarm="0" id="310" alias="SALA DE REUNIÓN" status="stop">indoor-3-10</unit>
+<unit type="indoor-unit" alarm="0" id="311" alias="PRESIDENTE" status="stop">indoor-3-11</unit>
+<unit type="indoor-unit" alarm="0" id="312" alias="CAP. ING. MEC. ELCTRICO 1" status="stop">indoor-3-12</unit>
+<unit type="indoor-unit" alarm="0" id="313" alias="CAP. ING. MEC. ELCTRICO 2" status="stop">indoor-3-13</unit>
+<unit type="indoor-unit" alarm="0" id="314" alias="CAP. ING. ELECTRON (REC.)" status="stop">indoor-3-14</unit>
+<unit type="indoor-unit" alarm="0" id="315" alias="SALA DE REUNIONES" status="stop">indoor-3-15</unit>
+<unit type="indoor-unit" alarm="0" id="316" alias="CAP. ING. ELECTRO 1" status="stop">indoor-3-16</unit>
+<unit type="indoor-unit" alarm="0" id="317" alias="CAP. ING. ELECTRO 2" status="stop">indoor-3-17</unit>
+<unit type="indoor-unit" alarm="0" id="318" alias="PRESIDENTE" status="stop">indoor-3-18</unit>
+<unit type="indoor-unit" alarm="0" id="319" alias="CAP. ING. CIVIL (REC.)" status="run">indoor-3-19</unit>
+<unit type="indoor-unit" alarm="0" id="320" alias="PRESIDENTE" status="stop">indoor-3-20</unit>
+<unit type="indoor-unit" alarm="0" id="321" alias="SALA DE REUNIONES 1" status="stop">indoor-3-21</unit>
+<unit type="indoor-unit" alarm="0" id="322" alias="SALA DE REUNIONES 2" status="stop">indoor-3-22</unit>
+<unit type="indoor-unit" alarm="0" id="323" alias="SALA DE REUNIONES 3" status="stop">indoor-3-23</unit>
+<unit type="indoor-unit" alarm="0" id="324" alias="SALA DE REUNIONES" status="stop">indoor-3-24</unit>
+<unit type="indoor-unit" alarm="0" id="325" alias="CAP. ING. CIVIL 1" status="stop">indoor-3-25</unit>
+<unit type="indoor-unit" alarm="0" id="326" alias="CAP. ING. CIVIL 2" status="stop">indoor-3-26</unit>
+<unit type="indoor-unit" alarm="0" id="327" alias="HALL 1" status="stop">indoor-3-27</unit>
+<unit type="indoor-unit" alarm="0" id="328" alias="HALL (RECUPERADOR)" status="run">indoor-3-28</unit>
+<unit type="indoor-unit" alarm="0" id="329" alias="HALL 2" status="stop">indoor-3-29</unit>
+<unit type="indoor-unit" alarm="0" id="330" alias="HALL 3" status="stop">indoor-3-30</unit>
+<unit type="indoor-unit" alarm="0" id="331" alias="OFICINA CLUB CHOSICA" status="stop">indoor-3-31</unit>
+<unit type="indoor-unit" alarm="0" id="332" alias="OFICINA PATRONATO UNI" status="stop">indoor-3-32</unit>
+<unit type="indoor-unit" alarm="0" id="333" alias="PATRONATO (RECUPERADOR)" status="run">indoor-3-33</unit>
+<unit type="indoor-unit" alarm="0" id="334" alias="CAJA COBRANZA 1" status="stop">indoor-3-34</unit>
+<unit type="indoor-unit" alarm="0" id="335" alias="OFICINAS (RECUPERADOR)" status="run">indoor-3-35</unit>
+<unit type="indoor-unit" alarm="0" id="336" alias="CAJA COBRANZA 2" status="stop">indoor-3-36</unit>
+<unit type="indoor-unit" alarm="0" id="337" alias="OFICINA JEFE CAJA" status="stop">indoor-3-37</unit>
+<unit type="indoor-unit" alarm="0" id="338" alias="CAJAS 1" status="stop">indoor-3-38</unit>
+<unit type="indoor-unit" alarm="0" id="339" alias="CAJAS 2" status="run">indoor-3-39</unit>
+<unit type="indoor-unit" alarm="0" id="340" alias="CAJAS (RECUPERADOR)" status="run">indoor-3-40</unit>
+<unit type="indoor-unit" alarm="0" id="341" alias="CAJAS 3" status="stop">indoor-3-41</unit>
+<unit type="indoor-unit" alarm="0" id="342" alias="CAJAS 4" status="stop">indoor-3-42</unit>
+<unit type="indoor-unit" alarm="0" id="343" alias="CAJAS 5" status="stop">indoor-3-43</unit>
+<unit type="indoor-unit" alarm="0" id="344" alias="OFICINA JEFE" status="stop">indoor-3-44</unit>
+<unit type="indoor-unit" alarm="0" id="345" alias="OFICINA COMP. Y CERT." status="stop">indoor-3-45</unit>
+<unit type="indoor-unit" alarm="0" id="346" alias="OFICINAS (RECUPERADOR)" status="run">indoor-3-46</unit>
+<unit type="indoor-unit" alarm="0" id="347" alias="HALL PRINCIPAL 3" status="stop">indoor-3-47</unit>
+<unit type="indoor-unit" alarm="0" id="348" alias="HALL PRINCIPAL 1" status="stop">indoor-3-48</unit>
+<unit type="indoor-unit" alarm="0" id="349" alias="HALL PRINCIPAL (REC.)" status="run">indoor-3-49</unit>
+<unit type="indoor-unit" alarm="0" id="350" alias="HALL PRINCIPAL 2" status="stop">indoor-3-50</unit>
+<unit type="indoor-unit" alarm="0" id="351" alias="HALL PRINCIPAL 4" status="stop">indoor-3-51</unit>
+<unit type="indoor-unit" alarm="0" id="352" alias="ATENCIÓN COLEGIADO" status="stop">indoor-3-52</unit>
+<unit type="indoor-unit" alarm="0" id="353" alias="ATENCIÓN COLEGIO (REC.)" status="run">indoor-3-53</unit>
+<unit type="indoor-unit" alarm="0" id="354" alias="OFICINA JEFE DE ATENCIÓN" status="stop">indoor-3-54</unit>
+</bus>
+</mdac-ctrler>
+</result>
