@@ -72,7 +72,7 @@ def main():
             print(f"Publishing message to topic: {topic}")
             client.publish(topic, message)
             
-            time.sleep(10)
+            time.sleep(15)
     
     client.disconnect()
 
